@@ -1,4 +1,4 @@
-### Welcome to my profile
+### Welcome to my profile!
 
 I am a swedish engineering student studying various subject within machine learning, data science and mathematical optimization. I mainly use Github for storage and version control for personal projects and course assignments.
 
