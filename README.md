@@ -7,6 +7,12 @@ Feel free to look around! 🔍
 - 🎓 M. Sc student i Engineering Mathematics and Computational Science at Chalmers University of Technology
 - 🌍 Gothenburg, Sweden
 - 📫 Contact information:
-  - email: adam.wirehed@gmail.com
+  - email:      adam.wirehed@gmail.com
+  - LinkedIn:   https://www.linkedin.com/in/adam-wirehed/
 
-[![Adams's github stats](https://github-readme-stats.vercel.app/api?username=AdamWirehed&show_icons=true&theme=nord)](https://github.com/AdamWirehed/github-readme-stats)
+<a href="https://github.com/AdamWirehed/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AdamWirehed&show_icons=true&theme=nord" />
+</a>
+<a href="https://github.com/AdamWirehed/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamWirehed&hide=javascript,html,roff&theme=nord" />
+</a>
