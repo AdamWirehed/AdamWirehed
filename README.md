@@ -10,6 +10,7 @@ Feel free to look around! 🔍
   - email:      adam.wirehed@gmail.com
   - LinkedIn:   https://www.linkedin.com/in/adam-wirehed/
 
+
 <a href="https://github.com/AdamWirehed/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AdamWirehed&show_icons=true&theme=nord" />
 </a>
