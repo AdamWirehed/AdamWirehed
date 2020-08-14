@@ -5,6 +5,9 @@ I am a swedish engineering student studying various subject within machine learn
 Feel free to look around! 🔍
 
 - 🎓 M. Sc student i Engineering Mathematics and Computational Science at Chalmers University of Technology
+- 💼 Summer Internship R&D at Ericsson
+  - Implemented a continuous training pipeline system for monetoring, evaluating and training machine learning models in production
+  - Inspired by the paper "The ML Test Score" by Google
 - 🌍 Gothenburg, Sweden
 - 📫 Contact information:
   - email:      adam.wirehed@gmail.com
