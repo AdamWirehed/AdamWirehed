@@ -5,10 +5,10 @@ I am a swedish engineering student studying various subject within machine learn
 Feel free to look around! 🔍
 
 - 🎓 M. Sc student i Engineering Mathematics and Computational Science at Chalmers University of Technology
-- Work experience
+- 💼 Work experience
   - Intern in Data Analytics at Ericsson
     - Integrating a continuous training pipeline into the team's systems
-    - Updating and improving CT-pipeline framework
+    - Updating and improving the corresponding CT-pipeline framework
   - Summer Internship R&D at Ericsson
     - Implemented a continuous training pipeline system for monitoring, evaluating and training machine learning models in production
     - Inspired by the paper "The ML Test Score" by Google
