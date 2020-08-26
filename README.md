@@ -17,10 +17,9 @@ Feel free to look around! 🔍
   - email:      adam.wirehed@gmail.com
   - LinkedIn:   https://www.linkedin.com/in/adam-wirehed/
 
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
 
 <a href="https://github.com/AdamWirehed/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AdamWirehed&show_icons=true&theme=nord" />
 </a>
-<a href="https://github.com/AdamWirehed/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamWirehed&hide=javascript,html,roff&theme=nord" />
-</a>
+
