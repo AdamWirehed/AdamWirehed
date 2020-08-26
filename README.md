@@ -17,7 +17,7 @@ Feel free to look around! 🔍
   - email:      adam.wirehed@gmail.com
   - LinkedIn:   https://www.linkedin.com/in/adam-wirehed/
 
-# Languages and tools
+#### Languages and tools
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> <img height="32" width="32" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Fletter_c%2Fletter_c_PNG22.png&f=1&nofb=1" />
 
 <a href="https://github.com/AdamWirehed/github-readme-stats">
