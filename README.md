@@ -4,7 +4,7 @@ I am a swedish engineering student studying various subject within machine learn
 
 Feel free to look around! 🔍
 
-- 🎓 M. Sc student i Engineering Mathematics and Computational Science at Chalmers University of Technology
+- 🎓 M. Sc student in Engineering Mathematics and Computational Science at Chalmers University of Technology
 - 💼 Work experience
   - Intern in Data Analytics at Ericsson
     - Integrating a continuous training pipeline into the team's systems
