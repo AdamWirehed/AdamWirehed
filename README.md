@@ -2,7 +2,7 @@
 
 I am a swedish engineering student studying various subject within machine learning, data science and mathematical optimization. I mainly use Github for storage and version control for personal projects and course assignments.
 
-Feel free to look around! 🔍
+Feel free to look around!
 
 - M. Sc student in Engineering Mathematics and Computational Science at Chalmers University of Technology
 - Work experience
